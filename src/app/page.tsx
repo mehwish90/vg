@@ -1,5 +1,7 @@
 
 import Products from "@/components/pro";
+import ff from "@/components/ff";
 export default function Home() {
   return (
-    <div><Products/></div>)}
+    <div><Products/>
+    <ff/></div>)}
